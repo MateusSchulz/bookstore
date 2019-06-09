@@ -1,10 +1,10 @@
 require 'rails_helper'
 require 'spec_helper'
-require '../app/models/books'
+require '../../app/models'
 
 RSpec.describe Books, type: :model do
   context 'validation tests' do
-    it {should validate_presence_of :name}
+    it { should validate_presence_of :name }
     it "should pass" do
       books=Books.new(name:'Calculo',description:'Become the master of Calculo in one week',price:'100',author:'Guillermo',category:'Math',cover:'n faço ideia da capa').save
       expect(books).to eq(true)
@@ -38,5 +38,15 @@ RSpec.describe Books, type: :model do
       expect(books).to eq(false)
     end
 
+    it { should validate_numericality_of(:price) }
+    it "should verify if is a number" do
+      books=Books.new(name:'Calculo',description:'Become the master of Calculo in one week',price:'100',author:'Guillermo',category:'Math').save#?
+      expect(books).to eq(false)
+    end 
+    it { should have_attached_file(:avatar) }
+    it { should validate_attachment_presence(:avatar) }
+    it { should validate_attachment_content_type(:avatar).allowing('image/png', 'image/gif').rejecting('text/plain', 'text/xml') }
+    it { should validate_attachment_size(:avatar).less_than(2.megabytes) }
+    
   end
 end
