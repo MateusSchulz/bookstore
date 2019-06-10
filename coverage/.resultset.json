@@ -1,24 +1,16 @@
 {
   "RSpec": {
     "coverage": {
-      "/home/oem/Documentos/Documents/UENF/7ºperíodo/Teste de Software/bookstore/spec/models/order_spec.rb": [
+      "/home/oem/Documentos/bookstore/spec/models/author_spec.rb": [
         1,
         null,
         1,
-        2,
-        2,
-        2,
-        2,
-        2,
-        2,
-        null,
         1,
-        2,
         2,
         null,
         null
       ],
-      "/home/oem/Documentos/Documents/UENF/7ºperíodo/Teste de Software/bookstore/spec/rails_helper.rb": [
+      "/home/oem/Documentos/bookstore/spec/rails_helper.rb": [
         null,
         1,
         1,
@@ -81,14 +73,14 @@
         null,
         null
       ],
-      "/home/oem/Documentos/Documents/UENF/7ºperíodo/Teste de Software/bookstore/config/environment.rb": [
+      "/home/oem/Documentos/bookstore/config/environment.rb": [
         null,
         1,
         null,
         null,
         1
       ],
-      "/home/oem/Documentos/Documents/UENF/7ºperíodo/Teste de Software/bookstore/config/application.rb": [
+      "/home/oem/Documentos/bookstore/config/application.rb": [
         1,
         null,
         1,
@@ -109,13 +101,13 @@
         null,
         null
       ],
-      "/home/oem/Documentos/Documents/UENF/7ºperíodo/Teste de Software/bookstore/config/boot.rb": [
+      "/home/oem/Documentos/bookstore/config/boot.rb": [
         1,
         null,
         1,
         1
       ],
-      "/home/oem/Documentos/Documents/UENF/7ºperíodo/Teste de Software/bookstore/config/environments/test.rb": [
+      "/home/oem/Documentos/bookstore/config/environments/test.rb": [
         1,
         null,
         null,
@@ -163,7 +155,7 @@
         null,
         null
       ],
-      "/home/oem/Documentos/Documents/UENF/7ºperíodo/Teste de Software/bookstore/config/initializers/application_controller_renderer.rb": [
+      "/home/oem/Documentos/bookstore/config/initializers/application_controller_renderer.rb": [
         null,
         null,
         null,
@@ -173,7 +165,7 @@
         null,
         null
       ],
-      "/home/oem/Documentos/Documents/UENF/7ºperíodo/Teste de Software/bookstore/config/initializers/assets.rb": [
+      "/home/oem/Documentos/bookstore/config/initializers/assets.rb": [
         null,
         null,
         null,
@@ -189,7 +181,7 @@
         null,
         null
       ],
-      "/home/oem/Documentos/Documents/UENF/7ºperíodo/Teste de Software/bookstore/config/initializers/backtrace_silencers.rb": [
+      "/home/oem/Documentos/bookstore/config/initializers/backtrace_silencers.rb": [
         null,
         null,
         null,
@@ -198,7 +190,7 @@
         null,
         null
       ],
-      "/home/oem/Documentos/Documents/UENF/7ºperíodo/Teste de Software/bookstore/config/initializers/content_security_policy.rb": [
+      "/home/oem/Documentos/bookstore/config/initializers/content_security_policy.rb": [
         null,
         null,
         null,
@@ -225,14 +217,14 @@
         null,
         null
       ],
-      "/home/oem/Documentos/Documents/UENF/7ºperíodo/Teste de Software/bookstore/config/initializers/cookies_serializer.rb": [
+      "/home/oem/Documentos/bookstore/config/initializers/cookies_serializer.rb": [
         null,
         null,
         null,
         null,
         1
       ],
-      "/home/oem/Documentos/Documents/UENF/7ºperíodo/Teste de Software/bookstore/config/initializers/devise.rb": [
+      "/home/oem/Documentos/bookstore/config/initializers/devise.rb": [
         null,
         null,
         null,
@@ -533,13 +525,13 @@
         null,
         null
       ],
-      "/home/oem/Documentos/Documents/UENF/7ºperíodo/Teste de Software/bookstore/config/initializers/filter_parameter_logging.rb": [
+      "/home/oem/Documentos/bookstore/config/initializers/filter_parameter_logging.rb": [
         null,
         null,
         null,
         1
       ],
-      "/home/oem/Documentos/Documents/UENF/7ºperíodo/Teste de Software/bookstore/config/initializers/inflections.rb": [
+      "/home/oem/Documentos/bookstore/config/initializers/inflections.rb": [
         null,
         null,
         null,
@@ -557,13 +549,13 @@
         null,
         null
       ],
-      "/home/oem/Documentos/Documents/UENF/7ºperíodo/Teste de Software/bookstore/config/initializers/mime_types.rb": [
+      "/home/oem/Documentos/bookstore/config/initializers/mime_types.rb": [
         null,
         null,
         null,
         null
       ],
-      "/home/oem/Documentos/Documents/UENF/7ºperíodo/Teste de Software/bookstore/config/initializers/wrap_parameters.rb": [
+      "/home/oem/Documentos/bookstore/config/initializers/wrap_parameters.rb": [
         null,
         null,
         null,
@@ -579,40 +571,28 @@
         null,
         null
       ],
-      "/home/oem/Documentos/Documents/UENF/7ºperíodo/Teste de Software/bookstore/spec/factories/authors.rb": [
+      "/home/oem/Documentos/bookstore/spec/factories/authors.rb": [
         1,
         1,
         1,
         null,
         null
       ],
-      "/home/oem/Documentos/Documents/UENF/7ºperíodo/Teste de Software/bookstore/spec/factories/books.rb": [
+      "/home/oem/Documentos/bookstore/spec/factories/books.rb": [
         1,
         1,
         null,
         null,
         null
       ],
-      "/home/oem/Documentos/Documents/UENF/7ºperíodo/Teste de Software/bookstore/spec/factories/categories.rb": [
+      "/home/oem/Documentos/bookstore/spec/factories/categories.rb": [
         1,
         1,
         1,
         null,
         null
       ],
-      "/home/oem/Documentos/Documents/UENF/7ºperíodo/Teste de Software/bookstore/spec/factories/line_items.rb": [
-        1,
-        1,
-        1,
-        1,
-        1,
-        1,
-        null,
-        null
-      ],
-      "/home/oem/Documentos/Documents/UENF/7ºperíodo/Teste de Software/bookstore/spec/factories/orders.rb": [
-        1,
-        1,
+      "/home/oem/Documentos/bookstore/spec/factories/line_items.rb": [
         1,
         1,
         1,
@@ -622,14 +602,10 @@
         null,
         null
       ],
-      "/home/oem/Documentos/Documents/UENF/7ºperíodo/Teste de Software/bookstore/spec/factories/users.rb": [
+      "/home/oem/Documentos/bookstore/spec/factories/orders.rb": [
         1,
         1,
-        null,
-        null,
-        null
-      ],
-      "/home/oem/Documentos/Documents/UENF/7ºperíodo/Teste de Software/bookstore/config/routes.rb": [
+        1,
         1,
         1,
         1,
@@ -638,7 +614,23 @@
         null,
         null
       ],
-      "/home/oem/Documentos/Documents/UENF/7ºperíodo/Teste de Software/bookstore/app/models/user.rb": [
+      "/home/oem/Documentos/bookstore/spec/factories/users.rb": [
+        1,
+        1,
+        null,
+        null,
+        null
+      ],
+      "/home/oem/Documentos/bookstore/config/routes.rb": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        null,
+        null
+      ],
+      "/home/oem/Documentos/bookstore/app/models/user.rb": [
         1,
         null,
         null,
@@ -646,28 +638,94 @@
         null,
         null
       ],
-      "/home/oem/Documentos/Documents/UENF/7ºperíodo/Teste de Software/bookstore/app/models/application_record.rb": [
+      "/home/oem/Documentos/bookstore/app/models/application_record.rb": [
         1,
         1,
         null
       ],
-      "/home/oem/Documentos/Documents/UENF/7ºperíodo/Teste de Software/bookstore/app/helpers/application_helper.rb": [
+      "/home/oem/Documentos/bookstore/app/helpers/application_helper.rb": [
         1,
         null
       ],
-      "/home/oem/Documentos/Documents/UENF/7ºperíodo/Teste de Software/bookstore/app/helpers/authors_helper.rb": [
+      "/home/oem/Documentos/bookstore/app/helpers/authors_helper.rb": [
         1,
         null
       ],
-      "/home/oem/Documentos/Documents/UENF/7ºperíodo/Teste de Software/bookstore/app/helpers/books_helper.rb": [
+      "/home/oem/Documentos/bookstore/app/helpers/books_helper.rb": [
         1,
         null
       ],
-      "/home/oem/Documentos/Documents/UENF/7ºperíodo/Teste de Software/bookstore/app/helpers/categories_helper.rb": [
+      "/home/oem/Documentos/bookstore/app/helpers/categories_helper.rb": [
         1,
         null
       ],
-      "/home/oem/Documentos/Documents/UENF/7ºperíodo/Teste de Software/bookstore/app/models/order.rb": [
+      "/home/oem/Documentos/bookstore/app/models/author.rb": [
+        1,
+        1,
+        null
+      ],
+      "/home/oem/Documentos/bookstore/spec/models/book_spec.rb": [
+        1,
+        null,
+        1,
+        1,
+        2,
+        2,
+        null,
+        null
+      ],
+      "/home/oem/Documentos/bookstore/app/models/book.rb": [
+        1,
+        1,
+        1,
+        null
+      ],
+      "/home/oem/Documentos/bookstore/spec/models/category_spec.rb": [
+        1,
+        null,
+        1,
+        1,
+        2,
+        null,
+        null
+      ],
+      "/home/oem/Documentos/bookstore/app/models/category.rb": [
+        1,
+        1,
+        null
+      ],
+      "/home/oem/Documentos/bookstore/spec/models/line_item_spec.rb": [
+        1,
+        null,
+        1,
+        2,
+        2,
+        null
+      ],
+      "/home/oem/Documentos/bookstore/app/models/line_item.rb": [
+        1,
+        1,
+        1,
+        null
+      ],
+      "/home/oem/Documentos/bookstore/spec/models/order_spec.rb": [
+        1,
+        null,
+        1,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        null,
+        1,
+        2,
+        2,
+        null,
+        null
+      ],
+      "/home/oem/Documentos/bookstore/app/models/order.rb": [
         1,
         1,
         1,
@@ -680,13 +738,14 @@
         1,
         null
       ],
-      "/home/oem/Documentos/Documents/UENF/7ºperíodo/Teste de Software/bookstore/app/models/line_item.rb": [
+      "/home/oem/Documentos/bookstore/spec/models/user_spec.rb": [
         1,
+        null,
         1,
-        1,
+        null,
         null
       ]
     },
-    "timestamp": 1560187121
+    "timestamp": 1560187701
   }
 }
