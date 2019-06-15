@@ -1,4 +1,5 @@
 require 'rails_helper'
+require 'spec_helper'
 
 RSpec.describe Order, type: :model do
   it {should validate_presence_of :user_id}
