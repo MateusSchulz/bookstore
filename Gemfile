@@ -46,6 +46,7 @@ group :development, :test do
   gem 'factory_bot_rails'
   gem 'faker'
   gem 'devise'
+  gem "pundit"
 end
 
 group :development do
