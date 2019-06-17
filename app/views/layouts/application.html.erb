@@ -8,8 +8,22 @@
     <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track': 'reload' %>
     <%= javascript_include_tag 'application', 'data-turbolinks-track': 'reload' %>
   </head>
+  <style>
+    ul li{
+      display: inline;
+      list-style: none;
+      text-decoration: none;
+    }
+  </style>
 
   <body>
+
+    <ul>
+      <li><%= link_to 'Categories', categories_path %></li>
+      <li><%= link_to 'Author', authors_path %></li>
+      <li><%= link_to 'Sair', destroy_user_session_path, method: :delete %></li>
+    </ul>
+
     <% if notice %>
       <p class="alert alert-success"><%= notice %></p>
     <% end %>

@@ -1,5 +1,6 @@
 class CategoriesController < ApplicationController
   before_action :set_category, only: [:show, :edit, :update, :destroy]
+  before_action :authorize_category
 
   # GET /categories
   # GET /categories.json
@@ -71,4 +72,10 @@ class CategoriesController < ApplicationController
     def category_params
       params.require(:category).permit(:name)
     end
+
+
+
+  def authorize_category
+    authorize Category
+  end
 end
