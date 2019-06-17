@@ -31,6 +31,11 @@ RSpec.describe AuthorsController, type: :controller do
   let(:valid_attributes) {
     skip("Add a hash of attributes valid for your model")
   }
+  
+  before(:each){
+    user = User.create(email: 'teste2@teste.com', password: '123456', admin: true)
+    sign_in user
+  }
 
   let(:invalid_attributes) {
     skip("Add a hash of attributes invalid for your model")
