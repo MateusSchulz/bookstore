@@ -1,7 +1,7 @@
 {
   "RSpec": {
     "coverage": {
-      "/mnt/c/Users/ferna/OneDrive/Documentos/bookstore/spec/controllers/authors_controller_spec.rb": [
+      "/home/professor/Documentos/bookstore/spec/controllers/authors_controller_spec.rb": [
         1,
         null,
         null,
@@ -144,7 +144,7 @@
         null,
         null
       ],
-      "/mnt/c/Users/ferna/OneDrive/Documentos/bookstore/spec/rails_helper.rb": [
+      "/home/professor/Documentos/bookstore/spec/rails_helper.rb": [
         null,
         1,
         1,
@@ -207,14 +207,14 @@
         null,
         null
       ],
-      "/mnt/c/Users/ferna/OneDrive/Documentos/bookstore/config/environment.rb": [
+      "/home/professor/Documentos/bookstore/config/environment.rb": [
         null,
         1,
         null,
         null,
         1
       ],
-      "/mnt/c/Users/ferna/OneDrive/Documentos/bookstore/config/application.rb": [
+      "/home/professor/Documentos/bookstore/config/application.rb": [
         1,
         null,
         1,
@@ -235,13 +235,13 @@
         null,
         null
       ],
-      "/mnt/c/Users/ferna/OneDrive/Documentos/bookstore/config/boot.rb": [
+      "/home/professor/Documentos/bookstore/config/boot.rb": [
         1,
         null,
         1,
         1
       ],
-      "/mnt/c/Users/ferna/OneDrive/Documentos/bookstore/config/environments/test.rb": [
+      "/home/professor/Documentos/bookstore/config/environments/test.rb": [
         1,
         null,
         null,
@@ -289,7 +289,7 @@
         null,
         null
       ],
-      "/mnt/c/Users/ferna/OneDrive/Documentos/bookstore/config/initializers/application_controller_renderer.rb": [
+      "/home/professor/Documentos/bookstore/config/initializers/application_controller_renderer.rb": [
         null,
         null,
         null,
@@ -299,7 +299,7 @@
         null,
         null
       ],
-      "/mnt/c/Users/ferna/OneDrive/Documentos/bookstore/config/initializers/assets.rb": [
+      "/home/professor/Documentos/bookstore/config/initializers/assets.rb": [
         null,
         null,
         null,
@@ -315,7 +315,7 @@
         null,
         null
       ],
-      "/mnt/c/Users/ferna/OneDrive/Documentos/bookstore/config/initializers/backtrace_silencers.rb": [
+      "/home/professor/Documentos/bookstore/config/initializers/backtrace_silencers.rb": [
         null,
         null,
         null,
@@ -324,7 +324,7 @@
         null,
         null
       ],
-      "/mnt/c/Users/ferna/OneDrive/Documentos/bookstore/config/initializers/content_security_policy.rb": [
+      "/home/professor/Documentos/bookstore/config/initializers/content_security_policy.rb": [
         null,
         null,
         null,
@@ -351,14 +351,14 @@
         null,
         null
       ],
-      "/mnt/c/Users/ferna/OneDrive/Documentos/bookstore/config/initializers/cookies_serializer.rb": [
+      "/home/professor/Documentos/bookstore/config/initializers/cookies_serializer.rb": [
         null,
         null,
         null,
         null,
         1
       ],
-      "/mnt/c/Users/ferna/OneDrive/Documentos/bookstore/config/initializers/devise.rb": [
+      "/home/professor/Documentos/bookstore/config/initializers/devise.rb": [
         null,
         null,
         null,
@@ -659,13 +659,13 @@
         null,
         null
       ],
-      "/mnt/c/Users/ferna/OneDrive/Documentos/bookstore/config/initializers/filter_parameter_logging.rb": [
+      "/home/professor/Documentos/bookstore/config/initializers/filter_parameter_logging.rb": [
         null,
         null,
         null,
         1
       ],
-      "/mnt/c/Users/ferna/OneDrive/Documentos/bookstore/config/initializers/inflections.rb": [
+      "/home/professor/Documentos/bookstore/config/initializers/inflections.rb": [
         null,
         null,
         null,
@@ -683,13 +683,13 @@
         null,
         null
       ],
-      "/mnt/c/Users/ferna/OneDrive/Documentos/bookstore/config/initializers/mime_types.rb": [
+      "/home/professor/Documentos/bookstore/config/initializers/mime_types.rb": [
         null,
         null,
         null,
         null
       ],
-      "/mnt/c/Users/ferna/OneDrive/Documentos/bookstore/config/initializers/wrap_parameters.rb": [
+      "/home/professor/Documentos/bookstore/config/initializers/wrap_parameters.rb": [
         null,
         null,
         null,
@@ -705,40 +705,28 @@
         null,
         null
       ],
-      "/mnt/c/Users/ferna/OneDrive/Documentos/bookstore/spec/factories/authors.rb": [
+      "/home/professor/Documentos/bookstore/spec/factories/authors.rb": [
         1,
         1,
         1,
         null,
         null
       ],
-      "/mnt/c/Users/ferna/OneDrive/Documentos/bookstore/spec/factories/books.rb": [
+      "/home/professor/Documentos/bookstore/spec/factories/books.rb": [
         1,
         1,
         null,
         null,
         null
       ],
-      "/mnt/c/Users/ferna/OneDrive/Documentos/bookstore/spec/factories/categories.rb": [
+      "/home/professor/Documentos/bookstore/spec/factories/categories.rb": [
         1,
         1,
         1,
         null,
         null
       ],
-      "/mnt/c/Users/ferna/OneDrive/Documentos/bookstore/spec/factories/line_items.rb": [
-        1,
-        1,
-        1,
-        1,
-        1,
-        1,
-        null,
-        null
-      ],
-      "/mnt/c/Users/ferna/OneDrive/Documentos/bookstore/spec/factories/orders.rb": [
-        1,
-        1,
+      "/home/professor/Documentos/bookstore/spec/factories/line_items.rb": [
         1,
         1,
         1,
@@ -748,14 +736,26 @@
         null,
         null
       ],
-      "/mnt/c/Users/ferna/OneDrive/Documentos/bookstore/spec/factories/users.rb": [
+      "/home/professor/Documentos/bookstore/spec/factories/orders.rb": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        null,
+        null
+      ],
+      "/home/professor/Documentos/bookstore/spec/factories/users.rb": [
         1,
         1,
         null,
         null,
         null
       ],
-      "/mnt/c/Users/ferna/OneDrive/Documentos/bookstore/config/routes.rb": [
+      "/home/professor/Documentos/bookstore/config/routes.rb": [
         1,
         1,
         1,
@@ -765,7 +765,7 @@
         1,
         null
       ],
-      "/mnt/c/Users/ferna/OneDrive/Documentos/bookstore/app/models/user.rb": [
+      "/home/professor/Documentos/bookstore/app/models/user.rb": [
         1,
         null,
         null,
@@ -773,28 +773,28 @@
         null,
         null
       ],
-      "/mnt/c/Users/ferna/OneDrive/Documentos/bookstore/app/models/application_record.rb": [
+      "/home/professor/Documentos/bookstore/app/models/application_record.rb": [
         1,
         1,
         null
       ],
-      "/mnt/c/Users/ferna/OneDrive/Documentos/bookstore/app/helpers/application_helper.rb": [
+      "/home/professor/Documentos/bookstore/app/helpers/application_helper.rb": [
         1,
         null
       ],
-      "/mnt/c/Users/ferna/OneDrive/Documentos/bookstore/app/helpers/authors_helper.rb": [
+      "/home/professor/Documentos/bookstore/app/helpers/authors_helper.rb": [
         1,
         null
       ],
-      "/mnt/c/Users/ferna/OneDrive/Documentos/bookstore/app/helpers/books_helper.rb": [
+      "/home/professor/Documentos/bookstore/app/helpers/books_helper.rb": [
         1,
         null
       ],
-      "/mnt/c/Users/ferna/OneDrive/Documentos/bookstore/app/helpers/categories_helper.rb": [
+      "/home/professor/Documentos/bookstore/app/helpers/categories_helper.rb": [
         1,
         null
       ],
-      "/mnt/c/Users/ferna/OneDrive/Documentos/bookstore/app/controllers/authors_controller.rb": [
+      "/home/professor/Documentos/bookstore/app/controllers/authors_controller.rb": [
         1,
         1,
         null,
@@ -870,11 +870,13 @@
         null,
         null
       ],
-      "/mnt/c/Users/ferna/OneDrive/Documentos/bookstore/app/controllers/application_controller.rb": [
+      "/home/professor/Documentos/bookstore/app/controllers/application_controller.rb": [
+        1,
+        1,
         1,
         null
       ],
-      "/mnt/c/Users/ferna/OneDrive/Documentos/bookstore/spec/controllers/categories_controller_spec.rb": [
+      "/home/professor/Documentos/bookstore/spec/controllers/categories_controller_spec.rb": [
         1,
         null,
         null,
@@ -1017,7 +1019,7 @@
         null,
         null
       ],
-      "/mnt/c/Users/ferna/OneDrive/Documentos/bookstore/app/controllers/categories_controller.rb": [
+      "/home/professor/Documentos/bookstore/app/controllers/categories_controller.rb": [
         1,
         1,
         null,
@@ -1093,7 +1095,7 @@
         null,
         null
       ],
-      "/mnt/c/Users/ferna/OneDrive/Documentos/bookstore/spec/helpers/authors_helper_spec.rb": [
+      "/home/professor/Documentos/bookstore/spec/helpers/authors_helper_spec.rb": [
         1,
         null,
         null,
@@ -1110,7 +1112,7 @@
         1,
         null
       ],
-      "/mnt/c/Users/ferna/OneDrive/Documentos/bookstore/spec/helpers/categories_helper_spec.rb": [
+      "/home/professor/Documentos/bookstore/spec/helpers/categories_helper_spec.rb": [
         1,
         null,
         null,
@@ -1127,7 +1129,7 @@
         1,
         null
       ],
-      "/mnt/c/Users/ferna/OneDrive/Documentos/bookstore/spec/models/author_spec.rb": [
+      "/home/professor/Documentos/bookstore/spec/models/author_spec.rb": [
         1,
         1,
         null,
@@ -1137,12 +1139,12 @@
         null,
         null
       ],
-      "/mnt/c/Users/ferna/OneDrive/Documentos/bookstore/app/models/author.rb": [
+      "/home/professor/Documentos/bookstore/app/models/author.rb": [
         1,
         1,
         null
       ],
-      "/mnt/c/Users/ferna/OneDrive/Documentos/bookstore/spec/models/book_spec.rb": [
+      "/home/professor/Documentos/bookstore/spec/models/book_spec.rb": [
         1,
         1,
         null,
@@ -1161,9 +1163,11 @@
         null,
         null,
         null,
+        null,
         null
       ],
-      "/mnt/c/Users/ferna/OneDrive/Documentos/bookstore/app/models/book.rb": [
+      "/home/professor/Documentos/bookstore/app/models/book.rb": [
+        1,
         1,
         1,
         1,
@@ -1172,7 +1176,7 @@
         1,
         null
       ],
-      "/mnt/c/Users/ferna/OneDrive/Documentos/bookstore/spec/models/category_spec.rb": [
+      "/home/professor/Documentos/bookstore/spec/models/category_spec.rb": [
         1,
         1,
         null,
@@ -1182,12 +1186,12 @@
         null,
         null
       ],
-      "/mnt/c/Users/ferna/OneDrive/Documentos/bookstore/app/models/category.rb": [
+      "/home/professor/Documentos/bookstore/app/models/category.rb": [
         1,
         1,
         null
       ],
-      "/mnt/c/Users/ferna/OneDrive/Documentos/bookstore/spec/models/line_item_spec.rb": [
+      "/home/professor/Documentos/bookstore/spec/models/line_item_spec.rb": [
         1,
         1,
         null,
@@ -1196,13 +1200,13 @@
         2,
         null
       ],
-      "/mnt/c/Users/ferna/OneDrive/Documentos/bookstore/app/models/line_item.rb": [
+      "/home/professor/Documentos/bookstore/app/models/line_item.rb": [
         1,
         1,
         1,
         null
       ],
-      "/mnt/c/Users/ferna/OneDrive/Documentos/bookstore/spec/models/order_spec.rb": [
+      "/home/professor/Documentos/bookstore/spec/models/order_spec.rb": [
         1,
         1,
         null,
@@ -1220,7 +1224,7 @@
         null,
         null
       ],
-      "/mnt/c/Users/ferna/OneDrive/Documentos/bookstore/app/models/order.rb": [
+      "/home/professor/Documentos/bookstore/app/models/order.rb": [
         1,
         1,
         1,
@@ -1233,7 +1237,7 @@
         1,
         null
       ],
-      "/mnt/c/Users/ferna/OneDrive/Documentos/bookstore/spec/models/user_spec.rb": [
+      "/home/professor/Documentos/bookstore/spec/models/user_spec.rb": [
         1,
         1,
         null,
@@ -1241,19 +1245,7 @@
         null,
         null
       ],
-      "/mnt/c/Users/ferna/OneDrive/Documentos/bookstore/spec/requests/authors_spec.rb": [
-        1,
-        null,
-        1,
-        1,
-        1,
-        1,
-        1,
-        null,
-        null,
-        null
-      ],
-      "/mnt/c/Users/ferna/OneDrive/Documentos/bookstore/spec/requests/categories_spec.rb": [
+      "/home/professor/Documentos/bookstore/spec/requests/authors_spec.rb": [
         1,
         null,
         1,
@@ -1265,47 +1257,19 @@
         null,
         null
       ],
-      "/mnt/c/Users/ferna/OneDrive/Documentos/bookstore/spec/routing/authors_routing_spec.rb": [
+      "/home/professor/Documentos/bookstore/spec/requests/categories_spec.rb": [
         1,
         null,
         1,
         1,
         1,
-        1,
-        null,
-        null,
-        1,
-        1,
-        null,
-        null,
-        1,
-        1,
-        null,
-        null,
-        1,
-        1,
-        null,
-        null,
-        null,
-        1,
-        1,
-        null,
-        null,
-        1,
-        1,
-        null,
-        null,
-        1,
-        1,
-        null,
-        null,
         1,
         1,
         null,
         null,
         null
       ],
-      "/mnt/c/Users/ferna/OneDrive/Documentos/bookstore/spec/routing/categories_routing_spec.rb": [
+      "/home/professor/Documentos/bookstore/spec/routing/authors_routing_spec.rb": [
         1,
         null,
         1,
@@ -1345,7 +1309,47 @@
         null,
         null
       ],
-      "/mnt/c/Users/ferna/OneDrive/Documentos/bookstore/spec/views/authors/edit.html.erb_spec.rb": [
+      "/home/professor/Documentos/bookstore/spec/routing/categories_routing_spec.rb": [
+        1,
+        null,
+        1,
+        1,
+        1,
+        1,
+        null,
+        null,
+        1,
+        1,
+        null,
+        null,
+        1,
+        1,
+        null,
+        null,
+        1,
+        1,
+        null,
+        null,
+        null,
+        1,
+        1,
+        null,
+        null,
+        1,
+        1,
+        null,
+        null,
+        1,
+        1,
+        null,
+        null,
+        1,
+        1,
+        null,
+        null,
+        null
+      ],
+      "/home/professor/Documentos/bookstore/spec/views/authors/edit.html.erb_spec.rb": [
         1,
         null,
         1,
@@ -1365,84 +1369,7 @@
         null,
         null
       ],
-      "/mnt/c/Users/ferna/OneDrive/Documentos/bookstore/spec/views/authors/index.html.erb_spec.rb": [
-        1,
-        null,
-        1,
-        1,
-        1,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        1,
-        1,
-        1,
-        null,
-        null
-      ],
-      "/mnt/c/Users/ferna/OneDrive/Documentos/bookstore/spec/views/authors/new.html.erb_spec.rb": [
-        1,
-        null,
-        1,
-        1,
-        1,
-        null,
-        null,
-        null,
-        null,
-        1,
-        1,
-        null,
-        1,
-        null,
-        1,
-        null,
-        null,
-        null
-      ],
-      "/mnt/c/Users/ferna/OneDrive/Documentos/bookstore/spec/views/authors/show.html.erb_spec.rb": [
-        1,
-        null,
-        1,
-        1,
-        1,
-        null,
-        null,
-        null,
-        null,
-        1,
-        1,
-        1,
-        null,
-        null
-      ],
-      "/mnt/c/Users/ferna/OneDrive/Documentos/bookstore/spec/views/categories/edit.html.erb_spec.rb": [
-        1,
-        null,
-        1,
-        1,
-        1,
-        null,
-        null,
-        null,
-        null,
-        1,
-        1,
-        null,
-        1,
-        null,
-        1,
-        null,
-        null,
-        null
-      ],
-      "/mnt/c/Users/ferna/OneDrive/Documentos/bookstore/spec/views/categories/index.html.erb_spec.rb": [
+      "/home/professor/Documentos/bookstore/spec/views/authors/index.html.erb_spec.rb": [
         1,
         null,
         1,
@@ -1463,7 +1390,7 @@
         null,
         null
       ],
-      "/mnt/c/Users/ferna/OneDrive/Documentos/bookstore/spec/views/categories/new.html.erb_spec.rb": [
+      "/home/professor/Documentos/bookstore/spec/views/authors/new.html.erb_spec.rb": [
         1,
         null,
         1,
@@ -1483,7 +1410,84 @@
         null,
         null
       ],
-      "/mnt/c/Users/ferna/OneDrive/Documentos/bookstore/spec/views/categories/show.html.erb_spec.rb": [
+      "/home/professor/Documentos/bookstore/spec/views/authors/show.html.erb_spec.rb": [
+        1,
+        null,
+        1,
+        1,
+        1,
+        null,
+        null,
+        null,
+        null,
+        1,
+        1,
+        1,
+        null,
+        null
+      ],
+      "/home/professor/Documentos/bookstore/spec/views/categories/edit.html.erb_spec.rb": [
+        1,
+        null,
+        1,
+        1,
+        1,
+        null,
+        null,
+        null,
+        null,
+        1,
+        1,
+        null,
+        1,
+        null,
+        1,
+        null,
+        null,
+        null
+      ],
+      "/home/professor/Documentos/bookstore/spec/views/categories/index.html.erb_spec.rb": [
+        1,
+        null,
+        1,
+        1,
+        1,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        1,
+        1,
+        1,
+        null,
+        null
+      ],
+      "/home/professor/Documentos/bookstore/spec/views/categories/new.html.erb_spec.rb": [
+        1,
+        null,
+        1,
+        1,
+        1,
+        null,
+        null,
+        null,
+        null,
+        1,
+        1,
+        null,
+        1,
+        null,
+        1,
+        null,
+        null,
+        null
+      ],
+      "/home/professor/Documentos/bookstore/spec/views/categories/show.html.erb_spec.rb": [
         1,
         null,
         1,
@@ -1500,6 +1504,6 @@
         null
       ]
     },
-    "timestamp": 1560623796
+    "timestamp": 1560793023
   }
 }
